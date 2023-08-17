@@ -14,7 +14,10 @@ function App() {
       <h1>This is homepage</h1>
       <h1>this is from ahtesham</h1>
       <h>bablu</h>
+<<<<<<< HEAD
 >>>>>>>>> Temporary merge branch 2
+=======
+>>>>>>> 535f7f441d58c2c13fc9d97ffa96b73c80ac1320
     </div>
   );
 }
