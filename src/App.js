@@ -1,5 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
+import { Carasoul } from './Components/Carasoul';
 import { NavComp } from './Components/NavComp';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -13,6 +14,7 @@ function App() {
 <p>akadlfl</p>
 <p>hey guys how are you </p>
 <NavComp/>
+<Carasoul/>
     </div>
   );
 }
