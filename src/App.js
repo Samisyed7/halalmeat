@@ -10,6 +10,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from './Components/card';
 import Table from './Components/table';
 
+import DropDown from './Components/DropDown';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
    <NavComp/>
    <Card/>
    <Table/>
+   <DropDown/>
 
     </div>
   );
