@@ -8,6 +8,8 @@ import { NavComp } from './Components/NavComp';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from './Components/card';
+import Table from './Components/table';
+
 import DropDown from './Components/DropDown';
 
 function App() {
@@ -18,6 +20,7 @@ function App() {
    <p>ahtehsam </p>
    <NavComp/>
    <Card/>
+   <Table/>
    <DropDown/>
 <h1>Shaikh Maksud</h1>
 <h2>Shaikh2 Maksud</h2>
