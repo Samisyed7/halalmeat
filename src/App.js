@@ -11,6 +11,7 @@ function App() {
 <h1>Sayed Sami</h1>
 <p>akadlfl</p>
 <p>hey guys how are you </p>
+<NavComp/>
     </div>
   );
 }
