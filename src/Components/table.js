@@ -4,7 +4,7 @@ const Table = () => {
   return (
     <div>
       <table class="table">
-  <thead>
+  <thead>  
     <tr>
       <th scope="col">#</th>
       <th scope="col">First</th>
