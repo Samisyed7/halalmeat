@@ -10,6 +10,7 @@ function App() {
       <h1>Shaikh Maksud</h1>
       <p>this is halal meat pro</p>
       <p>hello world</p>
+      <p>this is halal meat group of 4 members</p>
     </div>
   );
 }
